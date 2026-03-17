@@ -49,6 +49,12 @@ endmodule
 
 I'm a B.Tech ECE student at **JNTUA College of Engineering, Kalikiri**, passionate about designing digital hardware at the RTL level and building intelligent embedded systems. From designing a **RISC-V processor from scratch** to creating **IoT systems that connect sensors to the cloud**, I love turning logic gates into real-world solutions.
 
+<div align="center">
+
+📧 [haridaggolu@gmail.com](mailto:haridaggolu@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/contacthari88/) · 🐙 [GitHub](https://github.com/HariKrishna0088) · 📞 +91 7386603837
+
+</div>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25"/> 2025 Focus Areas
@@ -188,9 +194,10 @@ timeline
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnadaggolu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contacthari88/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haridaggolu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariKrishna0088)
+[![Phone](https://img.shields.io/badge/Call-+91_7386603837-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917386603837)
 
 </div>
 
