@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Daggolu%20Hari%20Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=VLSI%20Design%20|%20Embedded%20Systems%20|%20IoT%20Engineer&descSize=18&descAlignY=55&descAlign=50)
@@ -206,3 +205,4 @@ timeline
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
 
 </div>
+
